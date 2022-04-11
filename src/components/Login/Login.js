@@ -3,9 +3,7 @@ import React from 'react';
 const Login = () => {
     return (
         <div>
-            <h1>
-            Login Page
-            </h1>
+            <h1>Please Login</h1>
         </div>
     );
 };
